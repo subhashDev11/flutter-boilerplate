@@ -1,0 +1,35 @@
+{
+  "app_name": "Hipster",
+
+  "bottom_nav_first": "Home",
+  "bottom_nav_second": "About",
+
+  "localization_title": "Localization",
+  "localization_content": "Simplified translations with the Easy Translations package.",
+
+  "dark_mode_title": "Dark Mode",
+  "dark_mode_content": "Smooth transition to dark mode by using the inbuilt theming engine.",
+
+  "state_title": "State",
+  "state_content": "Powerful state management using Cubit & BLOC.",
+
+  "display_title": "Display",
+  "display_content": "Support for high refresh rate displays with the flutter displaymode package.",
+
+  "english_language_switch_title": "Use English",
+  "hindi_language_switch_title": "Use Hindi",
+  "name" : "Name",
+  "email" : "Email",
+  "password" : "Password",
+  "confirm_password" : "Confirm Password",
+  "sign_in" : "Sign In",
+  "sign_up" : "Sign Up",
+  "name_required" : "Name is required",
+  "email_required" : "Email is required",
+  "password_required" : "Password is required",
+  "confirm_password_required" : "Confirm Password is required",
+  "already_have_account" : "Already have an account? ",
+  "no_account" : "Not registered yet ? Sign Up",
+  "gender" : "Gender",
+  "processing_message" : "processing..."
+}
